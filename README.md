@@ -14,6 +14,6 @@ $ python main.py
 
 ## Screenshots:
 
-https://cdn.discordapp.com/attachments/1117901212117893193/1117901228416962570/image.png
+![Alt text](image1.jpg?raw=true)
 
-https://cdn.discordapp.com/attachments/1117901212117893193/1117901380380790864/image.png
+![Alt text](image2.jpg?raw=true)
