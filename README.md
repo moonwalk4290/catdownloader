@@ -15,3 +15,6 @@ $ python main.py
 ## Screenshots:
 
 ![Alt text](https://cdn.discordapp.com/attachments/1117901212117893193/1117901228416962570/image.png)
+
+
+![Alt text](https://cdn.discordapp.com/attachments/1117901212117893193/1117901380380790864/image.png)
